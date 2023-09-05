@@ -1,4 +1,4 @@
-# Symbolic Execution to Detect Semantic Merge Conflicts
+# [Symbolic Execution to Detect Semantic Merge Conflicts][paper]
 
 _If you see this message, then this page is not finalised yet pre-conference
 presentation._
@@ -12,7 +12,8 @@ presentation._
 }
 ```
 
-Data related to paper "Symbolic Execution to Detect Semantic Merge Conflicts"
-at the International Working Conference on Source Code Analysis and
-Manipulation (SCAM) 2023.
+Data related to paper "[Symbolic Execution to Detect Semantic Merge
+Conflicts][paper]" at the International Working Conference on Source Code
+Analysis and Manipulation (SCAM) 2023.
 
+[paper]: paper.pdf
