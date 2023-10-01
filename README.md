@@ -1,8 +1,5 @@
 # [Symbolic Execution to Detect Semantic Merge Conflicts][paper]
 
-_If you see this message, then this page is not finalised yet pre-conference
-presentation._
-
 ```
 @InProceedings{muylaert2023-scam,
   author    = {Ward Muylaert and Johannes H\"{a}rtel and De Roover, Coen},
