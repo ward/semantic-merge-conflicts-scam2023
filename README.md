@@ -6,6 +6,7 @@
   booktitle = {International Working Conference on Source Code Analysis and Manipulation},
   title     = {Symbolic Execution to Detect Semantic Merge Conflicts},
   year      = {2023},
+  doi       = {10.1109/SCAM59687.2023.00028},
 }
 ```
 
